@@ -3,3 +3,4 @@ second line
 third line
 firth line
 fiveth line
+conflicted sixth line
